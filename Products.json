@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": "com.zenflow.subscription.pro",
+      "name": "ZenFlow Pro",
+      "description": "Unlimited projects, tasks, and advanced analytics.",
+      "price": 0.99
+    }
+  ]
+}
